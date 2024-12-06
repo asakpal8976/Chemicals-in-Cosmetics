@@ -1,6 +1,4 @@
-# Chemicals-on-Cosmetics
-
-**Introduction:**  
+# Chemicals-Detection-in-Cosmetics
 
 Hello everyone, My name is Anushka , and I’m excited to present an analysis of **Chemicals in Cosmetics**, drawing insights from data reported to the California Safe Cosmetics Program (CSCP). This program, under the California Department of Public Health, aims to ensure transparency about hazardous and potentially hazardous ingredients in cosmetic products sold in California.  
 
