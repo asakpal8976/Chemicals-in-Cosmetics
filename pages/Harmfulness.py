@@ -175,7 +175,7 @@ st.subheader("Step 1: Load the Dataset")
 st.markdown("""
 We load the required dataset. Missing values are handled to ensure the data is clean.
 """)
-df = pd.read_csv(r'C:\Users\Sakshi Gaikwad\OneDrive\Desktop\cosmetics\cscpopendata.csv')
+df = pd.read_csv(r'data.csv')
 
 # Step 2: Fill missing values
 st.subheader("Step 2: Handle Missing Values")
