@@ -13,7 +13,7 @@ st.set_page_config(
 st.write("# Welcome to the Cosmetics Analysis Platform! 💄")
 st.write("## Explore Cosmetic Product Predictions 🚀")
 
-st.image(r"C:\Users\Sakshi Gaikwad\Downloads\cosmetic-testing.jpg", caption="Empowering Safer Cosmetic Choices", use_container_width=True)
+st.image("cosmetic-testing.jpg", caption="Empowering Safer Cosmetic Choices", use_container_width=True)
 
 
 # Introduction to the project
