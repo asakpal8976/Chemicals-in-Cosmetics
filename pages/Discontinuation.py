@@ -12,7 +12,7 @@ st.title("👩‍💻Cosmetic Product Discontinuation Prediction")
 
 
 # Display an image from a file
-st.image(r'C:\Users\Sakshi Gaikwad\Downloads\Discountinued.jpg', caption=None, use_container_width=True)
+st.image('Discountinued.jpg', caption=None, use_container_width=True)
 
 
 # Explanation of the app
