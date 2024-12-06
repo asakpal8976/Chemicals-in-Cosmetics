@@ -7,7 +7,7 @@ import streamlit as st
 @st.cache_data
 def load_data():
     # Replace 'your_dataset.csv' with the actual file name
-    return pd.read_csv(r'C:\Users\Sakshi Gaikwad\OneDrive\Desktop\cosmetics\cscpopendata.csv')
+    return pd.read_csv('data.csv')
 
 df = load_data()
 
