@@ -24,7 +24,7 @@ st.subheader("Step 1: Load the Dataset")
 st.markdown("""
 We load the required dataset. Missing values are handled to ensure the data is clean.
 """)
-chem = pd.read_csv(r'C:\Users\Sakshi Gaikwad\OneDrive\Desktop\cosmetics\cscpopendata.csv')
+chem = pd.read_csv('data.csv')
 
 # Step 2: Create target variable (1 for discontinued, 0 for not discontinued)
 st.subheader("Step 2: Create target variable")
